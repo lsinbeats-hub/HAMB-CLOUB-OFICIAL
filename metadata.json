@@ -1,0 +1,6 @@
+{
+  "name": "CLOUD | Hamburgueria",
+  "description": "Site institucional da CLOUD Hamburgueria. Hambúrguer de verdade feito na chapa, ingredientes selecionados e sabor que merece uma pausa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
